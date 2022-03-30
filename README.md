@@ -47,3 +47,7 @@ From the line chart, we can notice that-
 1. Urban cities have the highest demand for ridesharing services and also generates the highest revenues. Since there are more drivers than the rides, Pyber should consider investing in advertising in urban cities to increase the number of rides. This will not only help the drivers earn more whose average fares are the lowest, but will also lead to increase in revenue.
 2. The rural cities seem underserved as there are more rides than the total number of drivers. Since the average fare per ride is the highest in rural cities, Pyber might benefit if they can increase the number of drivers to increase the total number of rides. However further market research is required first to understand if there is potential for increase in demand in rural cities.
 3. Pyber should offer additional discounts or other incentives in the suburban cities in January and March to increase the demand so that it can lead to higher revenues.
+
+Please [Click Here](https://github.com/Sukanya807/PyBer_Challenge/blob/main/PyBer_Challenge.ipynb) to retrieve the codes for the challenge.
+
+Please [Click Here](https://github.com/Sukanya807/PyBer_Challenge/blob/main/Analysis/Pyber_fare_summary.png) for viewing copy of the line chart
